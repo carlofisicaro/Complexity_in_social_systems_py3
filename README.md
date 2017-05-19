@@ -3,5 +3,5 @@
 
 Hi there!
 
-I'm Carlo Fisicaro and I'm a Physics of Complex Systems student in Turin, not for long I hope! 
+I'm Carlo Fisicaro and I'm a Physics of Complex Systems student in Turin. 
 I've just "traslate" the notebooks that Professor Michele Tizzoni has written in python 2, for the corse "Complexity in Social Systems", in python 3.
